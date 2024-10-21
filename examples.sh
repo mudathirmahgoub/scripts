@@ -1,0 +1,1 @@
+cmake ../../examples/ -G Ninja -DCMAKE_PREFIX_PATH=/home/mudathir/Desktop/cvc5/mudathir/build/install/lib/cmake
